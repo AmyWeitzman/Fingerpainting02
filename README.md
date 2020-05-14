@@ -1,2 +1,3 @@
 # Fingerpainting02
-Mobile fingerpainting app
+Simple fingerpainting app
+-  Developed in beginner mobile app course using MIT App Inventor 2
